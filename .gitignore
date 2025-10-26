@@ -1,0 +1,6 @@
+.env
+firebase_config.py
+firebase_key.json
+chat_bot_venv/
+__pycache__/
+chroma_db/
