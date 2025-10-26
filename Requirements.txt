@@ -1,0 +1,10 @@
+streamlit
+pyttsx3
+python-docx
+PyPDF2
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama     # model llama3
+faiss-cpu
+dotenv
