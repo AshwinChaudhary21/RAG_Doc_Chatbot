@@ -8,3 +8,4 @@ langchain-huggingface
 langchain-ollama     # model llama3
 faiss-cpu
 dotenv
+cv2

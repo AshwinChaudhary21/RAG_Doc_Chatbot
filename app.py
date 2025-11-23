@@ -1,4 +1,4 @@
-import streamlit as st,os,cv2
+import streamlit as st
 import pyttsx3,threading,requests
 from dotenv import load_dotenv 
 from PyPDF2 import PdfReader 
@@ -14,6 +14,7 @@ from pdf2image import convert_from_path,convert_from_bytes
 from PIL import Image
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity 
+import os, cv2
 
 load_dotenv()
 
